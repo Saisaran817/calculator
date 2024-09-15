@@ -53,10 +53,10 @@
 
     <script>
      
-        const SOLAR_PANEL_EFFICIENCY = 0.20;  // 20% efficiency
-        const SOLAR_INSOLATION = 5;  // Average solar insolation (kWh/m²/day)
-        const AIR_DENSITY = 1.225;  // Air density at sea level (kg/m³)
-        const WIND_TURBINE_EFFICIENCY = 0.40;  // 40% efficiency
+        const SOLAR_PANEL_EFFICIENCY = 0.20; 
+        const SOLAR_INSOLATION = 5;  
+        const AIR_DENSITY = 1.225; 
+        const WIND_TURBINE_EFFICIENCY = 0.40; 
 
         
         function calculateSolarPower() {
